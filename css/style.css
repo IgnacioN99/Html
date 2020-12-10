@@ -375,6 +375,7 @@ header{
         grid-area: img;
         position: relative;
         z-index: 2;
+         
     }
 }
 /*About me section*/
